@@ -1,3 +1,3 @@
-This is the place where all the coding happens, Java never stood a chance
+Java never stood a chance
 
-Dont try to contact us, we are busy :)
+Dont try to contact us, we have better things to do :)
